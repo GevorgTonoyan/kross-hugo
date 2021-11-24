@@ -3,7 +3,7 @@ baseURL = "samumel.com"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
-title = "Kross"
+title = "Samumel"
 
 # css plugins
 [[params.plugins.css]]
@@ -51,7 +51,7 @@ logo = ""
 # theme color
 theme_color = "#41228e"
 # contact info
-phone = "+880 2544 658 256"
+phone = "+374 93452688"
 email = "gevorg@tonoyan.pl"
 address = "Jermuk"
 # meta description

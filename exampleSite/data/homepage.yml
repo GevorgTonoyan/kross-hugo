@@ -1,36 +1,36 @@
 # banner
 banner:
-  title : "Hi! I’m <br> Christoher <br> UX designer"
+  title : "Welcome to Samvels Art Gallery"
 
 # about
 about:
   enable : true
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+  content : "My name is Samvel and I would like to invite you to see my paintings."
   button:
     enable : true
-    label : "know more"
-    URL : "about"
+    label : "Portfolio"
+    URL : "portfolio"
 
-# skill
-skill:
-  enable : true
-  title : "Skills"
-  item:
-    - title : "Web Design"
-      progress : "90%"
-      color : "#fdb157"
+# # skill
+# skill:
+#   enable : true
+#   title : "Skills"
+#   item:
+#     - title : "Web Design"
+#       progress : "90%"
+#       color : "#fdb157"
       
-    - title : "Logo Design"
-      progress : "60%"
-      color : "#9473e6"
+#     - title : "Logo Design"
+#       progress : "60%"
+#       color : "#9473e6"
       
-    - title : "After Effects"
-      progress : "80%"
-      color : "#bdecf6"
+#     - title : "After Effects"
+#       progress : "80%"
+#       color : "#bdecf6"
       
-    - title : "Web App"
-      progress : "70%"
-      color : "#ffbcaa"
+#     - title : "Web App"
+#       progress : "70%"
+#       color : "#ffbcaa"
 
 # experience
 experience:
@@ -78,84 +78,12 @@ service:
   enable : true
   title : "Services"
   item:
-    - title : "UI Design"
+    - title : "Portraits"
       icon : "ti-palette"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      content : "Provided with a picture I will be able to repaint it using traditional oil painting methods"
       highlighted : false
 
-    - title : "UX Design"
+    - title : "Copies"
       icon : "ti-vector"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
       highlighted : true
-
-    - title : "Interaction Design"
-      icon : "ti-panel"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-      highlighted : false
-
-# portfolio
-portfolio:
-  enable : true
-  title : "Portfolio"
-  item_show : 5
-  # portfolio item comes from 'data/portfolio.yml' item.
-
-# testimonial
-testimonial:
-  enable : true
-  title : "Testimonials"
-  item:
-    - name : "Jesica Gomez"
-      image : "images/testimonial/client-1.png"
-      designation : "CEO, Funder"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
-      
-    - name : "Shirley Scot"
-      image : "images/testimonial/client-1.png"
-      designation : "CEO, Funder"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
-      
-    - name : "Jessica Julie"
-      image : "images/testimonial/client-1.png"
-      designation : "CEO, Funder"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
-
-# client logo slider
-clients_logo_slider:
-  enable : true
-  item:
-    - logo : "images/clients-logo/client-logo-1.png"
-      URL : "http://examplesite.com"
-      
-    - logo : "images/clients-logo/client-logo-2.png"
-      URL : "#"
-      
-    - logo : "images/clients-logo/client-logo-3.png"
-      URL : "http://examplesite.com"
-      
-    - logo : "images/clients-logo/client-logo-4.png"
-      URL : "#"
-      
-    - logo : "images/clients-logo/client-logo-5.png"
-      URL : "http://examplesite.com"
-      
-    - logo : "images/clients-logo/client-logo-1.png"
-      URL : "#"
-      
-    - logo : "images/clients-logo/client-logo-2.png"
-      URL : "http://examplesite.com"
-      
-    - logo : "images/clients-logo/client-logo-3.png"
-      URL : "#"
-      
-    - logo : "images/clients-logo/client-logo-4.png"
-      URL : "http://examplesite.com"
-      
-    - logo : "images/clients-logo/client-logo-5.png"
-      URL : "#"
-
-# blog
-blog:
-  enable : true
-  title : "Blogs"
-  # blog post comes from "content/blog" folder
